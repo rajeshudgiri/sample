@@ -1,2 +1,2 @@
 # sample
-learning git 345
+learning git
